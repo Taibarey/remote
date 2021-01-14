@@ -1,5 +1,6 @@
 Student
 Group 3702
-3 course
-Petrov Ivan
+4 course
+Taibarey Igor
 Petrovsky College
+Trainee
