@@ -6,9 +6,10 @@ Petrov Ivan
 
 =======
 Group 3702
-3 course
 Petrov Ivan
 Petrovsky College
+trainee
+full-time education
 <<<<<<< HEAD
 Trainee
 >>>>>>> afd0786d9622a0008a8e46b2de057715195d6d09
