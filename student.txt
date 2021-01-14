@@ -1,5 +1,13 @@
 Student
+<<<<<<< HEAD
 Group 37000000002
 4 course
 Petrov Ivan
 
+=======
+Group 3702
+4 course
+Taibarey Igor
+Petrovsky College
+Trainee
+>>>>>>> afd0786d9622a0008a8e46b2de057715195d6d09
