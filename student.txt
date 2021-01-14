@@ -1,6 +1,5 @@
 Student
 Group 3702
-4 course
-Taibarey Igor
+3 course
+Petrov Ivan
 Petrovsky College
-Full-time education
