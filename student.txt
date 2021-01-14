@@ -1,5 +1,5 @@
 Student
-Group 3702
-3 course
+Group 37000000002
+4 course
 Petrov Ivan
-Petrovsky College
+
